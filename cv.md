@@ -14,4 +14,13 @@
 
   * **markdown**  
 
+  * **HTML+CSS**  
 
+  * **git**  
+  5.  [Some code here](https://github.com/Creator674/yarik_tasks).
+
+  6. Tasks from _[https://learn.javascript.ru](https://learn.javascript.ru)_.  
+  
+  7. Only __self-education__. :(
+
+  8. (Eng lvl) **6 years** of school education.
