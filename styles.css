@@ -1,0 +1,60 @@
+body{
+max-width:100%;
+max-height:100%;
+background-color: rgb(92, 12, 38);
+
+
+}
+main{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.headline{
+    width: 50%;
+    height: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    background-color: rgba(129, 30, 99, 0.685);
+    font-display: center;
+    display: flex;
+    align-content:center;
+    flex-direction:  row;
+    justify-content:center;
+}
+#header {
+    width:100%;
+    height:100%;
+    display: flex;
+    align-content:center;
+    flex-direction:  row;
+    justify-content:center;
+    background-color: rgb(97, 32, 75);
+}
+.list{
+    width:100%;
+    height:100%;
+    background-color: rgba(155, 35, 139, 0.623);
+    font-size: 35px;
+}
+purple_filter{
+    color: rgba(198, 211, 19, 0.705);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.link{
+    text-decoration: none;
+}
+text_filter{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(198, 211, 19, 0.705);
+}
+#golden{
+    color: rgb(198, 211, 19, 0.705);
+}
+a {
+    color: rgb(198, 211, 19, 0.705);
+}
+a:hover{
+    color: rgba(83, 9, 46, 0.657);
+}
+.headline:hover{
+     color:rgba(83, 9, 46, 0.657);
+}
