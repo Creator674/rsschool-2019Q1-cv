@@ -52,3 +52,9 @@ text_filter{
 a {
     color: rgb(198, 211, 19, 0.705);
 }
+a:hover{
+    color: rgba(83, 9, 46, 0.657);
+}
+.headline:hover{
+     color:rgba(83, 9, 46, 0.657);
+}
